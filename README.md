@@ -9,13 +9,13 @@ En este proyecto se incluyen los scripts para realizar el proceso de scraping y 
 3. Consolidación de Datos
 
 ## Instrucciones de Configuración
-1. Clona el repositorio:
-   git clone https://github.com/MZun9607/Prueba-Tecnica---Stay-Unique
+### Clona el repositorio:
+1. git clone https://github.com/MZun9607/Prueba-Tecnica---Stay-Unique
 
-2. Instala las dependencias:
-   pip install selenium
-   pip install webdriver-manager
-   pip install pandas
+### Instala las dependencias:
+1. pip install selenium
+2. pip install webdriver-manager
+3. pip install pandas
 
 ## Ejecución de scripts
 1. python airbnb.py
