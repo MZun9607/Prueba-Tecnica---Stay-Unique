@@ -10,8 +10,7 @@ En este proyecto se incluyen los scripts para realizar el proceso de scraping y 
 
 ## Instrucciones de Configuración
 1. Clona el repositorio:
-   ```sh
-   git clone https://github.com/
+   git clone https://github.com/MZun9607/Prueba-Tecnica---Stay-Unique
 
 2. Instala las dependencias:
    pip install selenium
